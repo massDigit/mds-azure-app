@@ -1,4 +1,0 @@
-const http = require("http");
-http.createServer((req,res) => {
-res.end("Hello from Me that's mean your good!");
-}).listen(3000);
